@@ -104,15 +104,15 @@ Chainlink Token Distributie
 	- 350 miljoen zijn bestemd voor stimulatie van node operators in de vorm van subsidies (om het "de kip of het ei" probleem op te lossen wb het verankeren van capaciteit op het netwerk).
 	- 300 miljoen blijft eigendom van SmartContract Chainlink Ltd (om verdere ontwikkeling te bekostigen, aangezien zij zelf geen winst maken aan het netwerk).
 
-Why not just use ETH instead of LINK?
+Waarom niet gewoon ETH gebruiken i.p.v LINK?
 
-	There are several reasons to use LINK over ETH:	
+	Er zijn verschillende redenen om LINK te gebruiken:	
 	
-	- Ties the incentives of node operators together with the health of the overall Chainlink network.
-	- Isolates the security and economic bandwidth (staked LINK) from external factors outside the control of Chainlink stakeholders.
-	- If a major network attack occured, LINK collateral then becomes worthless hurting the attacker, this is not true with an unrelated asset (ETH).
-	- Stablecoins wouldn’t work either as they are either backed by fiat & thus censorable or rely upon oracles to function.
-	- Growing demand for LINK combined with a shrinking supply (due to staking) creates a positive feedback loop where the increased adoption boosts the price of LINK, thus increasing economic bandwidth and enabling more adoption to be supported.
+	- Het verbindt de stimulans voor node operators direct aan de algehele gezondheid van het netwerk.
+	- Het isoleert de economische en veiligheidstechnische aspecten van het netwerk (staked LINK) van externe factoren waar belanghebbenden van Chainlink geen effect op kunnen hebben.
+	- Als er een grootschalige aanval zou gebeuren op het netwerk, zou de als onderpand gestakede LINK waardeloos worden voor de aanvaller, dit zou niet het geval zijn bij een onrelateerde token/coin (ETH).
+	- Stablecoins zouden niet werken aangezien deze van waarde worden voorzien door fiat & daardoor gevoelig zijn voor censuur of zelf afhankelijk van een oracle.
+	- Stijgende vraag naar LINK in combinatie met een slinkend aanbod (door staking) creates a positive feedback loop where the increased adoption boosts the price of LINK, thus increasing economic bandwidth and enabling more adoption to be supported.
 	- Chainlink is blockchain agnostic & needs a token than can be easily bridged between blockchains.
 
 
