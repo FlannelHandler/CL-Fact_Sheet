@@ -4,40 +4,40 @@ Page 1
 
 BIG CENTERED TOP HEADER: Smart contracts & the real world
 
-HEADER PAGE 1: Het mogelijk maken van veilige *I/O van en naar Smart Contracts en interoperationaliteit tussen blockchains
+HEADER PAGE 1: Het mogelijk maken van veilige *I/O van en naar Smart Contracts, en interoperationaliteit tussen blockchains
 
 
-Smart contracts bieden de mogelijkheid fraudebestendige digitale overeenkomsten te creëren, welke kunnen worden aangemerkt als geheel veilig en betrouwbaar. Om een dergelijke overeenkomst's gehele betrouwbaarheid te waarborgen, moeten ook de inputs en outputs waarop de uitkomst van de overeenkomst is gebaseerd volledig veilig zijn. Chainlink voorziet in betrouwbare en veilige end-to-end verbindingen naar externe data.
+Smart contracts bieden de mogelijkheid fraudebestendige digitale overeenkomsten te creëren, welke kunnen worden omschreven als geheel veilig en betrouwbaar. Om een dergelijke overeenkomst's gehele betrouwbaarheid te waarborgen, moeten ook de inputs en outputs waarop de uitkomst van de overeenkomst is gebaseerd volledig veilig zijn. Chainlink voorziet in betrouwbare en veilige end-to-end verbindingen naar externe data.
 
 
 
 Overzicht
 
-	Historisch gezien zijn blockchains die in staat zijn smart contracts te fasciliteren, niet in staat direct te communiceren met externe systemen. De mogelijkheden die smart contracts bieden worden verstikt door hun onvermogen verbonden te worden aan data, gebeurtenissen en betalingen die niet op de blockchain plaatsvinden.
+	Historisch gezien zijn blockchains die in staat zijn smart contracts te faciliteren, niet in staat direct te communiceren met externe systemen. De mogelijkheden die smart contracts bieden worden verstikt door hun onvermogen verbonden te worden aan data, gebeurtenissen en betalingen die niet op de blockchain plaatsvinden.
 
-	Dezer dagen is men zo ver dat er een oplossing is voor dit probleem, door het introduceren van een nieuwe functionaliteit genaamd 'ORACLES', welke voorziet in een verbinding naar de buitenwereld. Dusver waren oracles een gecentraliseerde service, wat betekent dat elk smart contract dat een dergelijk oracle gebruikt gevoelig is voor een aanval op een "single point of failure", waarmee alle voordelen die decentralisatie aan smart contracts biedt teniet worden gedaan.
+	Dezer dagen is men zo ver dat er een oplossing is voor dit probleem, door het introduceren van een nieuwe functionaliteit genaamd 'ORACLES', welke voorziet in een verbinding naar de buitenwereld. Dusver waren oracles een gecentraliseerde service, wat betekent dat elk smart contract dat zo'n oracle gebruikt gevoelig is voor een aanval op een "single point of failure", waarmee voordelen die decentralisatie aan smart contracts biedt teniet worden gedaan.
 
-	Om deze tekortkoming op te vangen werd Chainlink (token verkoop in '17, product gelanceerd in '19) ontwikkeld door SmartContract.com (opgericht in '14) als het eerste gedecentralizeerde oracle framework dat in staat is externe data aan te leveren aan smart contracts op elke blockchain. Hierdoor kunnen nu de veiligheid en het determinisme van smart contracts gecombineerd worden met kennis en gebeurtenissen die bestaan op systemen buiten de blockchain. Chainlink voorziet smart contract van toegang tot elke vorm van externe data waarmee men een smart contract zou willen voeden.
+	Om dit te voorkomen werd Chainlink (token verkoop in '17, product gelanceerd in '19) ontwikkeld door SmartContract.com (opgericht in '14) als het eerste gedecentralizeerde oracle framework dat in staat is externe data aan te leveren aan smart contracts op elke blockchain. Hierdoor kunnen veiligheid en het determinisme van smart contracts gecombineerd worden met kennis en gebeurtenissen die bestaan op externe systemen. Chainlink voorziet smart contracts van toegang tot elke vorm van externe data.
 
 	Zie hier voor meer informatie over Chainlink: https://chain.link & https://smartcontract.com
 
 
 Wat Chainlink te bieden heeft
 
-	Smart contracts hebben middleware nodig om te verbinden met real-world data (data die bestaat buiten de blockchain). Wat hierin belangrijk is: deze externe data zal de uitkomst van de genoemde overeenkomst bepalen, waardoor het cruciaal is dat data-inputs hoogst accuraat en betrouwbaar zijn.
+	Smart contracts hebben middleware nodig om te verbinden met real-world data. Hierin is cruciaal: deze externe data zal de uitkomst van de overeenkomst bepalen, waardoor het nodig is dat data-inputs hoogst accuraat en betrouwbaar zijn.
 
-	Ongeacht of u een beginnend bedrijf runt, of een grootse organisatie leidt, met Chainlink als gedecentralized oracle middleware bent u in staat uw smart contract velig toegang te geven tot aantoonbaar betrouwbare externe data feeds, *APIs en betalingen.
+	Ongeacht of u een beginnend bedrijf runt, of een grote organisatie leidt, met Chainlink als gedecentralized oracle middleware bent u in staat uw smart contract velig toegang te geven tot aantoonbaar betrouwbare externe data feeds, *APIs en betalingen.
 
-	Elke developer kan gemakkelijk een eigen Chainlink bouwen en lanceren, om daarmee elke mogelijke API aan smart contracts te verkopen, terwijl degene die de data aanbiedt hun API verkoopt via hun conventionele wegen. Door een Chainlink te onderhouden als developer, krijgt men betaald door de duizenden smart contracts die gebruik maken van deze Chainlink.
+	Elke developer kan gemakkelijk een eigen Chainlink bouwen en lanceren, om daarmee elke mogelijke API aan smart contracts te verkopen, terwijl degene die de data aanbiedt hun API verkoopt via conventionele wegen. Door een Chainlink te onderhouden als developer, krijgt men betaald door de duizenden smart contracts die gebruik maken van deze Chainlink.
 
-	Grotere enterprises kunnen als partner van Chainlink bestaande APIs aanbieden voor gebruik in smart contracts. Het verkopen van uw bedrijf's data wordt snel en makkelijk door het gebruik van Chainlink. Zo voorziet u grote hoeveelheden smart contracts van de mogelijkheid uw digitale diensten direct af te nemen.
+	Grote enterprises kunnen als partner van Chainlink bestaande APIs aanbieden voor gebruik in smart contracts. Het verkopen van uw bedrijfsdata wordt snel en makkelijk door het gebruik van Chainlink. Zo voorziet u grote hoeveelheden smart contracts van de mogelijkheid uw digitale diensten direct af te nemen.
 
 
 Partners & cliënten
 
 	- 30+ Price Feeds op Ethereum Mainnet reeds gebruikt door 14+ DeFi projecten.
 	- 100+ integraties waaronder Polkadot, Tezos, Synthetix, Aave, Openlaw, Web3 en meer.
-	- Partnered met grote instanties zoals Google, Oracle, SWIFT en meer.
+	- Werkt samen met grote instanties zoals Google, Oracle, SWIFT en meer.
 	- Beschikbaar in vele development frameworks, met name Truffle welke bij verre het meest gebruikt wordt.
 	- Chainlink werkt samen met Intel, Microsoft, IBM en anderen "Hyperledger Avalon" te ontwikkelen, om veilige off-chain computatie mogelijk te maken door gebruikt te maken van TEE’s zoals Intel SGX.
 
@@ -59,13 +59,13 @@ Praktische toepassingen
 	- Nutsvoorzieningen
 	- Gokken
 		
-		In principe zijn zo goed als alle revolutionaire mogelijke toepassingen van een blockchain zoals Ethereum afhankelijk van data die niet beschikbaar is op de blockchain zelf. Enkele voorbeelden: derivaten van real-world grondstoffen in smart contracts (Google prototype), automatisch herbalanceren van portfolio's gebaseerd op conventionele trading indicators zoals RSI en EMA, markt-sentiment of zelfs difficulty van het Bitcoin netwerk, automatische uitbetaling van vluchtverzekering bij een vertraagde vlucht, het uitvoeren van conventionele bank-betalingen op basis van de uitkomst van smart contracts, verschillende types lenings/financierings-producten zonder tussenpersoon gebaseerd op overcollaterisatie of boni-score, het overbruggen van cloud-infrastructuren naar smart contracts en meer.
+		In principe zijn zo goed als alle revolutionaire mogelijke toepassingen van blockchains zoals Ethereum afhankelijk van data die niet beschikbaar is op de blockchain. Voorbeelden: derivaten van real-world grondstoffen in smart contracts (Google prototype), automatisch herbalanceren van portfolio's gebaseerd op trading indicators zoals RSI en EMA, markt-sentiment of zelfs difficulty van het Bitcoin netwerk, automatische uitbetaling van vluchtverzekering bij vertraagde vlucht, uitvoeren van conventionele bank-betalingen op basis van de uitkomsten van smart contracts, verschillende lenings/financierings-producten zonder tussenpersoon gebaseerd op overcollaterisatie of boni-score, overbruggen van cloud-infrastructuren naar smart contracts en meer.
 
 		 EEN ZEER HOOG AANGERADEN STUK OVER PRAKTISCHE TOEPASSINGEN: 44 ways to improve your smart contract
  
  
 * I/O staat voor Input/Output. In de context van blockchain houdt dit in: De data die als input aan smart contracts wordt geleverd en de data die als output voortkomt uit de uitvoering van deze smart contracts.
-* Een API is digitale constructie die programma's in staat stelt met elkaar te communiceren. Ter illustratie: TradingView (een app/site die draait om handel in crypto en aandelen) gebruikt een Binance (crypto beurs) API om data over prijs/volume van cryptomunten op te halen en te tonen op hun eigen website. Een ander voorbeeld is Uber, welke volledig functioneert op basis van API's voor betalingen, GPS, SMS (berichten service) en klant-identificatie.
+* Een API is digitale constructie die programma's in staat stelt met elkaar te communiceren. Ter illustratie: TradingView (een app/site die draait om handel in crypto en aandelen) gebruikt een Binance (crypto beurs) API om data over prijs/volume van cryptomunten op te halen en te tonen op hun eigen website. Of Uber, welke volledig functioneert op basis van API's voor betalingen, GPS, SMS (berichten service) en klant-identificatie.
 
 ========================
 Page2
@@ -73,25 +73,25 @@ Page2
  
  
  
-HEADER PAGE 2:	Het voeden van gedecentraliseerde blockchains met gecentraliseerde data feeds is zinloos
+HEADER PAGE 2:	Gedecentraliseerde blockchains voeden met gecentraliseerde data is zinloos
 				Chainlink biedt gedecentraliseerde, betrouwbare & fraudebestendige I/O op ELKE blockchain
 
 
 Het bereiken van decentralisatie
 
-	Is het mogelijk een waarheid te vinden in een wereld waar je bronnen niet betrouwbaar zijn? Chainlink doet dit door een NETWERK van oracles te zijn. Benodigde data wordt tegelijk aangeleverd door meerdere oracles die worden onderhouden door verschillende, onafhankelijke node-operators, welke gebruik maken van een meervoud aan databronnen (APIs). Deze worden op hun beurt gestimuleerd om correcte data aan te leveren. 
+	Is het mogelijk een waarheid te vinden in een wereld waar uw bronnen niet betrouwbaar zijn? Chainlink doet dit door een NETWERK van oracles te zijn. Benodigde data wordt tegelijk aangeleverd door meerdere oracles die worden onderhouden door verschillende, onafhankelijke node-operators, welke gebruik maken van een meervoud aan databronnen (APIs). Deze worden op hun beurt gestimuleerd om correcte data aan te leveren. 
 
-	Door te kiezen voor verschillende nodes en databronnen, vergroot je aantoonbaar en meetbaar de kans om te komen tot de hoogst waarschijnlijke waarheid. Door het gebruik van een techniek genaamd "Threshold Signatures" zullen deze nodes hun gevonden uitkomsten buiten de blockchain samenvoegen en tot consensus komen, om vervolgens deze uitkomst te voeden aan het smart contract op de blockchain. Bovendien wordt welke nodes in aanmerking komen een smart contract van data te voorzien bepaald door hun reputatie en voorgaande prestaties. Hiermee verzekert u de veiligheid van uw smart contracts niet alleen door veel verschillende bronnen te raadplegen, maar ook door zeker te stellen dat de nodes die u aanspreekt een goede reputatie binnen het netwerk hebben. U vindt een volledige stap voor stap uitleg over hoe Chainlink precies werkt op pagina 3. Verdere info vindt u op de Chainlink market.
+	Door te kiezen voor verschillende nodes en databronnen, vergroot je aantoonbaar en meetbaar de kans om te komen tot de hoogst waarschijnlijke waarheid. Door het gebruik van een techniek genaamd "Threshold Signatures" zullen deze nodes hun gevonden uitkomsten buiten de blockchain samenvoegen en tot consensus komen, om vervolgens deze uitkomst te voeden aan het smart contract op de blockchain. Bovendien wordt welke nodes in aanmerking komen om een smart contract van data te voorzien bepaald door hun reputatie en voorgaande prestaties. Hiermee verzekert u de veiligheid van uw smart contracts niet alleen door veel verschillende bronnen te raadplegen, maar ook door zeker te stellen dat de nodes die u aanspreekt een goede reputatie binnen het netwerk hebben. U vindt een volledige stap voor stap uitleg over hoe Chainlink precies werkt op pagina 3. Verdere info vindt u op de Chainlink market.
 
 
 Het nut van het LINK token
 
-	Het LINK token wordt gebruikt als betaalmiddel en onderpand, om zo netwerk-integriteit te verzekeren en onderdelen van het netwerk te stimuleren in de vorm van beloningen voor het aanleveren van correcte data. Het token zal gebruikt worden voor:
+	Het LINK token wordt gebruikt als betaalmiddel en onderpand, om netwerkintegriteit te verzekeren en onderdelen van het netwerk te stimuleren met beloningen voor het aanleveren van goede data. Het token wordt gebruikt voor:
 
-	Betaling aan node operators voor het leveren van data die buiten de blockchain bestaat, aan smart contracts op blockchains.
-	Node operators gebruiken LINK als onderpand (stake) in gevallen waar degenen die het smart contract gemaakt hebben dit vereisen, om zo de waarde in het contract te zekeren. Kwaadwillende of inactieve nodes zullen hun onderpand en reputatie verliezen als straf.
+	Betaling aan node operators voor het leveren van externe data aan smart contracts op blockchains.
+	Node operators gebruiken LINK als onderpand (stake) in gevallen het smart contract gemaakt dit vereiset, om zo de waarde in het contract te zekeren. Kwaadwillende of inactieve nodes zullen hun onderpand en reputatie verliezen als boete.
 
-	LINK is een ERC20 token met een ERC677 standard. ERC677 is speficiek ontwikkeld en in Ethereum geïntegreerd voor Chainlink. Het voegt een extra functionaliteit toe aan blockchain transacties genaamd "TransferAndCall", welke het mogelijk maakt betaling en data-overdracht samen te voegen in een enkele transactie.
+	LINK is een ERC20 token met een ERC677 standard. ERC677 is speficiek ontwikkeld en in Ethereum geïntegreerd voor Chainlink. Het geeft blockchaintransacties een extra functionaliteit genaamd "TransferAndCall", welke het mogelijk maakt betaling en data-overdracht samen te voegen in een enkele transactie.
 
 	LINK is een Ethereum token maar kan wanneer nodig overgezet worden naar elke andere blockchain. Chainlink is niet gebonden aan Ethereum.
 
@@ -100,40 +100,39 @@ Chainlink Token Distributie
 
 	Er is een vast aantal LINK tokens beschikbaar: 1 miljard
 
-	- 350 miljoen werden verkocht bij lancering van het token (fondsenwerving en eerste distributie van tokens).
-	- 350 miljoen zijn bestemd voor stimulatie van node operators in de vorm van subsidies (om het "de kip of het ei" probleem op te lossen wb het verankeren van capaciteit op het netwerk).
-	- 300 miljoen blijft eigendom van SmartContract Chainlink Ltd (om verdere ontwikkeling te bekostigen, aangezien zij zelf geen winst maken aan het netwerk).
+	- 350 miljoen werden verkocht bij lancering van het token (fondsenwerving en 1e distributie van tokens).
+	- 350 miljoen zijn bestemd voor stimulatie van node operators d.m.v subsidies (oplossing voor "de kip of het ei" probleem wb het verzekeren van netwerkcapaciteit).
+	- 300 miljoen blijft eigendom van SmartContract Chainlink Ltd (om ontwikkeling te bekostigen, Chainlink maakt zelf geen winst op het netwerk).
 
 Waarom niet gewoon ETH gebruiken i.p.v LINK?
 
 	Er zijn verschillende redenen om LINK te gebruiken:	
 	
-	- Het verbindt de stimulans voor node operators direct aan de algehele gezondheid van het netwerk.
-	- Het isoleert de economische en veiligheidstechnische aspecten van het netwerk (staked LINK) van externe factoren waar belanghebbenden van Chainlink geen effect op kunnen hebben.
-	- Als er een grootschalige aanval zou gebeuren op het netwerk, zou de als onderpand gestakede LINK waardeloos worden voor de aanvaller, dit zou niet het geval zijn bij een onrelateerde token/coin (ETH).
+	- Verbinden van de stimulans voor node operators direct aan de algehele gezondheid van het netwerk.
+	- Isoleren van de economische en veiligheidstechnische aspecten van het netwerk (staked LINK) van externe factoren waar belanghebbenden van Chainlink geen effect op kunnen hebben.
+	- Bij een grootschalige aanval op het netwerk zou de als onderpand gestakede LINK waardeloos worden voor de aanvaller, dit zou niet het geval zijn bij een onrelateerde token/coin (ETH).
 	- Stablecoins zouden niet werken aangezien deze van waarde worden voorzien door fiat & daardoor gevoelig zijn voor censuur of zelf afhankelijk van een oracle.
-	- Stijgende vraag naar LINK in combinatie met een slinkend aanbod (door staking) creates a positive feedback loop where the increased adoption boosts the price of LINK, thus increasing economic bandwidth and enabling more adoption to be supported.
-	- Chainlink is blockchain agnostic & needs a token than can be easily bridged between blockchains.
+	- Stijgende vraag naar LINK plus een slinkend aanbod (door staking) schept een positieve feedbacklus waar meer gebruik van LINK de prijs van het token opdrijft, waardoor meer economische bandbreedte ontstaat, welke meer gebruik mogelijk maakt.
+	- Chainlink is blockchain agnostisch & vereist een token dat makkelijk overzetbaar is tussen blockchains.
 
 
-If LINK is an ERC token, works only with Ethereum?
+Als LINK een ERC token is, werkt het dan alleen op Ethereum?
 
-	No, ANY blockchain can easily write an external adapter to call Chainlink. See next section. 
+	Nee, elke blockchain kan simpel een external adapter bouwen om te communiceren met Chainlink. Zie volgende sectie. 
 
 
-Blockchain agnostic
+Blockchain agnostisch
 
-	Chainlink supports ANY blockchain. LINK was created as an Ethereum token but the Chainlink network can serve data to any platform.
+	Chainlink ondersteunt ELKE blockchain. LINK is gestart als Ethereum token maar het Chainlink network kan elk platform van data voorzien.
+	Er zijn twee manieren om Chainlink te integreren:
 
-	There are two ways to integrate Chainlink:
-
-	1. Any developer can create a simple external adapter enabling any blockchain to request and receive external data from Chainlink nodes. Through this, LINK payments and staking collateral is still performed on Ethereum.
+	1. Elke developer kan een simpele externe adapter maken waardoor elke blockchain externe data kan aanvragen en ontvangen van Chainlink nodes. Op deze manier worden LINK betalingen en onderpand door staking nog altijd uitgevoerd op Ethereum.
 	
-	2. The LINK token can be bridged to another blockchain through LockDeposit contract enabling native LINK payment and staking support on any blockchain enabling applications outside of Ethereum to request  data without the need for  routing through Ethereum.
+	2. Het LINK token kan gebrugd worden naar een blockchain door een LockDeposit contract. Hierdoor worden LINK betalingen en staking mogelijk op elke blockchain en kunnen applicaties buiten Ethereum data aanvragen zonder routing via Ethereum.
 
-	Deploying Chainlink contracts in a new blockchain and bridging the token is a more complex process requiring cross-chain transaction support and therefore some simple data requests are likely still to be funneled through Ethereum for simplicity.
+	Chainlink contracts opzetten op een nieuwe blockchain en het token overzetten is een complexer process waarvoor cross-chain transaction support nodig is, vandaar dat simpelere data-aanvragen veelal nog via Ethereum zullen lopen.
 
-	Blockchains supported by Chainlink:
+	Blockchains ondersteund door Chainlink:
 
 		- Ethereum
 		- Bitcoin
@@ -142,42 +141,42 @@ Blockchain agnostic
 		- Hedera Hashgraph
 		- Tezos
 		- Zilliqa
-		- Any EVM-enabled blockchain
-		- Many more
+		- Elke EVM-enabled blockchain
+		- Vele anderen
 
-Customizing data & security
+Data & security op maat
 
-	Chainlink’s flexibility largely comes from the "Service Agreement" (SA) model: Any developer can connect to or build an oracle network that fits their exact needs.
+	Chainlink’s flexibilteit komt grotendeels van het "Service Agreement" (SA) model: Elke developer kan een oracle netwerk bouwen, of met een netwerk verbinden op basis van hun eigen behoeften.
 
-	Customization of a wide range of parameters:
+	Aanpasbaarheid van een brede set parameters:
 
-		- Selection and number of nodes
-		- Selection and number of data sources
-		- LINK Node Payment amounts
-		- LINK Collateral requirements
-		- Minimum reputation requirements
-		- Slashing conditions
-		- Node certification
+		- Selectie van welke nodes en welk aantal nodes
+		- Selectie van welke en welk aantal data bronnen
+		- Hoogte van betalingen in LINK aan nodes
+		- LINK onderpand vereisten
+		- Minimale reputatie vereisten
+		- Slashing voorwaarden
+		- Node certificatie
 		- Threshold Signatures
-		- TEEs ( See below “What is a TEE?” )
+		- TEEs ( Zie hieronder “Wat is een TEE?” )
 		- Mixicles
 		
-	Node Reputation/Ranking*: Chainlink nodes have a ’reputation’ factor. Chainlink clients will be able to require a minimum level of reputation for all the nodes. Node Reputation depends on these factors:
+	Node Reputatie/waardering*: Chainlink nodes hebben een ’reputation’ factor. Chainlink gebruikers zijn een staat een een minimaal reputatie te vereisen voor alle nodes. Node Reputatie hangt af van deze factoren:
 
-		- Node availability (uptime)
-		- Correctness of responses
-		- Average time to respond
-		- Total number of assigned requests
-		- Total number of completed requests
-		- Total number of accepted requests
-		- Amount of penalty payments
-		- Amount of LINK held (staked)		
+		- Node bereikbaarheid (uptime)
+		- Correctheid van data
+		- Gemiddelde reactietijd
+		- Totaal aantal toegekende aanvragen
+		- Totaal aantal uitgevoerde aanvragen
+		- Totaal aantal geaccepteerde aanvragen
+		- Aantal betaalde boetes
+		- Hoeveelheid LINK als onderpand (staked)		
 
-	ADD IN V4: Node reputation can be checked here: https://www.reputation.link/
+	ADD IN V4: Node reputatie kan hier bekeken worden: https://www.reputation.link/
 
-Network usage
+Gebruik van het netwerk
 
-	Growth of Chainlink related smart contracts indicates increased network utility & developer interest.
+	De groei van Chainlink-gerelateerde smart contracts toont toenemende toepasbaarheid van het network & interesse van ontwerpers.
 	(Image)
 
 
