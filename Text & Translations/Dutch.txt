@@ -176,7 +176,7 @@ Data & security op maat
 
 Gebruik van het netwerk
 
-	De groei van Chainlink-gerelateerde smart contracts toont toenemende toepasbaarheid van het network & interesse van ontwerpers.
+	De groei van het aantal Chainlink-gerelateerde smart contracts toont toenemende toepasbaarheid van het network & interesse van ontwerpers.
 	(Image)
 
 
