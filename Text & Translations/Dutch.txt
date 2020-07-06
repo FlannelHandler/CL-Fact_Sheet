@@ -184,105 +184,104 @@ Gebruik van het netwerk
 Page 3
 ================
 
-HEADER PAGE 3: Permissioned or permissionless, public or private, all blockchains and DLT need a trustworthy oracle to be truly useful
+HEADER PAGE 3: Permissioned or permissionless, openbaar of besloten, alle blockchains en DLT hebben een betrouwbare oracle nodig om werkelijk praktisch te zijn.
 
-- First mover advantage
+- Het voordeel van als eerste op de markt zijn
 
-	- First decentralized oracle framework.
-	- Long-standing connections to industry leaders (Swift, Google, & Oracle), leading research consultants (Gartner & Capgemini) & enterprise consortiums (IC3, EEA, Baseline protocol & Hyperledger).
-	- Network effects: Chainlink’s large number of clients, nodes & data sources attracts usage.
+	- Het eerste gedecentraliseerde oracle framework.
+	- Langstaande connecties met martkleiders (Swift, Google, & Oracle), toonzettende onderzoeksconsultants (Gartner & Capgemini) & ondernemingenconsortia (IC3, EEA, Baseline protocol & Hyperledger).
+	- Het netwerkeffect: Chainlink’s grote aantal cliënten, nodes & data bronnen moedigen gebruik aan.
 
 
-- Competitors
+- Concurrentie
 
-	- Direct: Alternative decentralized oracles which have little or no usage, inflexible and rigid customizability, have not yet reached critical mass, or is a homebrew and propritary oracle solution. This includes Tellor, Witnet,  Compound's OOS, Maker's OSM and Doracle from iExec (integrated with Chainlink) & Band.
+	- Direct: Andere gedecentraliseerde oracles zien bijna tot geen gebruik, zijn inflexibel en slecht aan te passen naar persoonlijke eisen, zijn niet uitontwikkeld, of zijn ontwikkeld (voor gebruik) op zeer kleine schaal. Hieronder vallen Tellor, Witnet, Compound's OOS, Maker's OSM en Doracle van iExec.
 	
-	- Indirect: Centralized oracles like Provable (partnered with Chainlink) and Rhombus.
+	- Indirect: Gecentraliseerde oracles zoals Provable (partner van Chainlink) en Rhombus.
 
 
-	New competitors will emerge and struggle to achieve marketshare since they will lack the large selection of nodes and data sources, subsidized oracle networks, time-tested security, first movers advantage and network effects.
+	Nieuwe concurrentie zal moeite hebben een marktaandeel te ontwikkelen gezien het in eerste instantie beperkte aanbod aan nodes en data bronnen en het gebrek aan gesubisdieerde oracle netwerken, over langere tijd bewezen veiligheid, en verdere netwerk effecten.
 	
-	*Note about competitors & ’Coinbase oracle’: Although Coinbase being a big and reputable actor in this space, the service they provide is a price feed (not general oracle) and the results are not being written on chain. Therfore it cannot be considered a blockchain oracle nor competitor in the Oracle space.
+	
+- Sterke community
 
-- Strong community
-
-	- The Chainlink community is one of the largest, best educated, most creative communities in the crypto space, renowned for its meme art and comradery.
-	- Official discord & gitter to reach the team.
-	- An official Chainlink community advocate program already exists in multiple cities  and continents around the world. City list here.
+	- De Chainlink community is één van de grootste, best geïnformeerde en meest creatieve communities in de crypto wereld, bekend om hun eenheid en hoge activiteit in de techwereld zelf (en de memes, natuurlijk).
+	- Team is bereikbaar via Telegram, Twitter en Github.
+	- Chainlink heeft een "community advocate" programma gestart in meerdere steden wereldwijd. Lijst met steden hier.
 	
 
 - Team
 
-	25+ people team
-	6 advisors, amongst them:
-		- Tom Gonser (Docusign founder). Article
-		- Ari Juels (formalized Proof of Work; RSA chief scientist; IC3 co-founder)
-		- Evan Cheng (Facebook R&D Dir & LLVM   author at Apple)
+	25+ leden tellend team
+	6 adviseurs, waaronder:
+		- Tom Gonser (Oprichter Docusign). Article
+		- Ari Juels (ontwerper van Proof of Work; RSA hoofdwetenschapper; mede-oprichter IC3)
+		- Evan Cheng (Facebook R&D Dir. & LLVM auteur bij Apple)
 		- Hudson Jameson (Ethereum Foundation)
-		- Andrew Miller (Consensus researcher)
+		- Andrew Miller (Consensus wetenschapper)
 
-	Currently, 11 open positions. Careers here
-	No hype from the team,  only professionalism.
+	Momenteel zijn er nog 11 vacatures. Careers hier
+	Geen hype vanuit team, alleen gericht op resultaten.
 
-Open source & audited
+Open source & gecontroleerd
 
-	- Code is open source (here).
-	- Development publicly traceable (here).
-	- Bug bounty program (here)
-		- 4 independent audits:
-		- 3 on main contracts (here). 		
-		- 1 on Aggregator contract (here).
-		- 1 on Mixicles (in progress).
+	- Code is open source (hier)
+	- Ontwikkeling is voor ieder volgbaar (hier).
+	- Bug bounty programma (hier)
+		- 4 onafhankelijke audits:
+		- 3 op de primaire smart contracts (hier). 		
+		- 1 op het aggregatie contract (hier).
+		- 1 oo Mixicles (in ontwikkeling).
 	
 	
 ----------------
 
 	
-SECONDARY HEADER PAGE 3: A glance at the tech behind Chainlink
+SECONDARY HEADER PAGE 3: Een blik op de technologie achter Chainlink
 
-Together these innovative pieces of technology provide the most advanced oracle solution to date
-
-
-1. Privacy & auditability: Mixicles
-
-	Mixicles is essentially a mixer that uses external oracles to enable on-chain privacy for public blockchain smart contracts. The contract is split into two parts, where the sensitive data and business logic is kept off-chain with private settlement on-chain. Mixicles enable:
-
-		- Keeping private the contract business logic & the external oracle data & final payee result.
-		- Financial contracts are private to the public but auditable to regulators.
-		- Blockchain agnosticism & can be used in enterprise blockchains as well. 
-		- A new generation of privacy preserving & scalable DeFi instruments.
-
-	Mixicles are currently under audit. Highly recommended article here. 
+Door deze innovatieve technogische ontwikkelen te combineren vormde Chainlink de meest vooruitstrevende oracle toepassing dusver
 
 
-2. Low cost & scalable: Threshold Signatures
+1. Privacy & Controleerbaarheid: Mixicles
 
-	Threshold signatures (TS) are being implemented in Chainlink which allows nodes to batch their responses off-chain substantially reducing transaction costs (gas) while minimizing the effects of blockchain network congestion. 
+	Mixicles werken als een mixer welke externe oracles gebruikt om on-chain privacy te creëren voor smart contracts op publieke blockchains. Het contract wordt in 2en gedeeld: het deel met gevoelige data en bedrijfsinformatie blijft off-chain, verdere schikking en uitvoering gebeurt on-chain. Mixicles zorgen ervoor dat:
 
-	How can this be achieved? Threshold Signatures pave the way to solving the oracle dilemma: One wants hundreds, thousands, even tens of thousands of witnesses to agree on a data point but that is expensive due to the growing amount of transactions needed.
+		- Gevoelige bedrijsinformatie, externe data in het contract en uitkomst van het contract privé blijven.
+		- Financiële contracten niet inzichtelijk zijn voor andere gebruikers, maar wel controleerbaar door toezichthouders.
+		- Chainlink Blockchain agnostisch is & kan ook worden gebruikt in enterprise blockchains. 
+		- Privacy op grotere schaal kan worden behouden en DeFi instrumenten verder kunnen ontwikkelen dan voorheen.
 
-	TS enable oracles to talk to each other off-chain, agree on an observation, aggregate a single signature proving group observation and then respond to the original data request using only a single on-chain transaction. Article
+	Mixicles zijn in ontwikkeling en worden momenteel geaudit. Hoogst informatief artikel hier. 
+
+
+2. Goedkoop & schaalbaar: Threshold Signatures
+
+	Threshold signatures (TS) worden in Chainlink geimplementeerd en zorgen er voor dat nodes hun inputs off-chain kunnen samenvoegen, waardoor er minder transacties naar de blockchain nodig zijn. Hierdoor bespaart men geld (gas costs) en vermindert men vertraging door drukte op het network (blockchain congestion).
+
+	Hoe dan? Threshold Signatures zijn de basis voor het oplossen van het oracle dilemma: Men wil 100en, 1.000en, soms zelfs 10.000en "getuigen" een enkele data punt laten rapporteren, maar dat is duur gezien het aantal transacties dat nodig is.
+
+	TS stelt oracles in staat off-chain te communiceren met elkaar, consensus te bereiken, dit te aggregeren tot één bevestiging dat deze data correct is en vervolgens met een enkele transactie deze informatie on-chain te brengen. Artikel
 
 
 3. Trusted Computation Framework
 
-	The Trusted Compute Framework (TCF) is way for enterprises to use trusted execution environments (*TEEs) to secure off-chain computations to be used by on-chain contracts. Chainlink ensures that the data being delivered is encrypted and tamperproof end to end.
+	Een "Trusted Compute Framework" (TCF) is een manier waarop bedrijven "trusted execution environments" (*TEEs) kunnen gebruiken om off-chain berekeningen veilig uit te voeren voor gebruik door on-chain contracten. Chainlink verzekert hiermee dat data cryptografisch is verzegeld en niet beïnvloedbaar is gedurende het gehele proces.
 
-	Typically computation takes place on-chain and is very expensive. TCF instead allows contracts to shift complex computations from on-chain to off-chain systems (on-premise or in cloud VM’s) and once finished post the results back on-chain all while keeping verification and attestation verification properties.
+	Normaal gesproken vindt deze berekening on-chain plaats, wat zeer duur is. Met TCF zijn contracten in staat complexe berekeningen voortaan op off-chain systemen uit te voeren (ter plaatse of in de cloud bijvoorbeeld) en de uitkomsten on-chain te plaatsen, zonder verificeerbaarheid te verliezen.
 
-	Chainlink is part of the "Hyperledger Avalon Trusted Compute Framework" amongst Intel, IBM, Microsoft, Alibaba Cloud and Banco Santander.
-	See Intel Press Release & Article.
+	Chainlink is deel van "Hyperledger Avalon Trusted Compute Framework", samen met oa. Intel, IBM, Microsoft, Alibaba Cloud en Banco Santander.
+	Zie Intel persbericht & Artikel.
 
 
-4. Staking Collateral (Direct skin in game)
+4. Staking Onderpand ("Iets te verliezen hebben")
 
-	In short, staking is when nodes delivering data to a smart contract stake a predetermined amount of LINK as collateral.
+	Kort gezegd, staking houdt in dat nodes die data leveren aan een smart contract, een bepaald bedrag aan LINK als onderpand moeten aanleveren.
 
-	In the case nodes fail to deliver a reliable data point, provides it in an untimely manner, or doesn't deliver data at all, they are penalized by getting their LINK collateral slashed hurting nodes financially.
+	Wanneer een node foute data aanlevert, niet tijdig reageert, of geen simpelweg niet reageert, verliezen ze een deel van hun onderpand in LINK.
 
-	When nodes instead provide a reliable, timely data point to an oracle assignment, they are paid a fee in LINK. They can withdraw the fees and keep their collateral or withdraw partially/totally their collateral too.Malicious or non-responsive nodes will have their collateral slashed & their reputation will be reduced as a punishment too. Article.
+	Wanneer nodes wel aan alle voorwaarden voldoen, worden ze uitbetaald in LINK. Ze zijn daarna vrij deze beloning en eventueel onderpand weer op te nemen. In het geval van bewuste pogingen tot manipulatie van data zal het volledige onderpand worden afgenomen en zal de node's reputatie op het netwerk dalen, waardoor deze niet meer in aanmerking komt voor waardevolle contracten. Artikel.
 
-	This is how the Chainlink network incentivizes honest behaviour and penalizes malicious behavior of nodes.
+	Dit is hoe het Chainlink netwerk goed gedrag onder nodes aanmoedigt en slecht gedrag bestraft.
 
 ========
 Page 4
